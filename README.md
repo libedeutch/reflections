@@ -12,4 +12,6 @@ rsync -r /Users/gilly/Library/CloudStorage/OneDrive-Personal/research/fish/simul
 -avr
 # convert file
 dos2unix 
-
+# preview .txt, .out file, edit and save 
+Use emacs 
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Save-Commands.html
