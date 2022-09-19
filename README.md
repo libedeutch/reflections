@@ -7,3 +7,9 @@ https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/
 
 # Connect Ganymede
 ssh jxy190005@ganymede.utdallas.edu
+# Upload local files to cluster
+rsync -r /Users/gilly/Library/CloudStorage/OneDrive-Personal/research/fish/simulation_data/bash.sh  jxy190005@ganymede.utdallas.edu:~/fish/simulation/ <br/>
+-avr
+# convert file
+dos2unix 
+
