@@ -4,3 +4,6 @@ link to a remote respository like a online depot,  local and remote can update a
 # LINUX Operation Hub
 Synchronize/ copy local files to cluster or cluster to cluster <br/>
 https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/
+
+# Connect Ganymede
+ssh jxy190005@ganymede.utdallas.edu
