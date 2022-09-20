@@ -15,3 +15,4 @@ dos2unix
 # preview .txt, .out file, edit and save 
 Use emacs 
 https://www.gnu.org/software/emacs/manual/html_node/emacs/Save-Commands.html
+# Connect to ganymede on RStudio Terminal
